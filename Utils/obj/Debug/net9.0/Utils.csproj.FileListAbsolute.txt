@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/18thTask/Utils/bin/Debug/net9.0/Utils.deps.json
+/Users/apple/RiderProjects/18thTask/Utils/bin/Debug/net9.0/Utils.dll
+/Users/apple/RiderProjects/18thTask/Utils/bin/Debug/net9.0/Utils.pdb
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.AssemblyInfo.cs
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.sourcelink.json
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.dll
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/refint/Utils.dll
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/Utils.pdb
+/Users/apple/RiderProjects/18thTask/Utils/obj/Debug/net9.0/ref/Utils.dll
