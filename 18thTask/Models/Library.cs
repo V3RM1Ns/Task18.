@@ -9,8 +9,7 @@ public class Library:Entity
     
     public void AddBook(Book book)
     {
-        List<Book> NotDeletedBooks=books.FindAll(x=>x.IsDeleted==false);
-        Book result = NotDeletedBooks.FirstOrDefault(y=>y.Name==book.Name);
+        Book result = books.FirstOrDefault(y=>y.Name==book.Name);
         if (result == null)
         {
             if (!(books.Count < BookLimit))
